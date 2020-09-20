@@ -1,0 +1,105 @@
+{
+  "main": {
+    "name": "Jemshith TK",
+    "occupation": "ReactJS Developer && Green Worker",
+    "description": "Full Stack React Developer by Day, Freelancer by Night. ",
+    "image": "thakku.jpg",
+    "bio": "My name is Jemshith, I'm a Full Stack ReactJS Developer. Currently I'm working as a Freelancer.",
+    "contactmessage": "Get in touch with me to receive further details, and for hiring me.",
+    "email": "jemshithtk@gmail.com",
+    "phone": "+91 790 720 5699",
+    "address": {
+      "street": "74 Fake Street",
+      "city": "Kerala",
+      "state": "India",
+      "zip": "683561"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dev.thakku",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dev-thakku",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dev-thakku/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/dev-thakku",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Languages I can Speak",
+    "education": [
+      {
+        "school": "St. Joseph's HSS",
+        "degree": "Secondary Education",
+        "graduated": "May 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Freelancing",
+        "years": "April 2020 - Present",
+        "description": "Devoloping ReactJS apps."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "MySQL",
+        "level": "70%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "ReactJS Amazon Clone",
+        "category": "Amazon Clone built with ReactJS and Firebase",
+        "image": "amazon-clone.png",
+        "url": "https://bit.ly/336P8XR"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "That Jemshith must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Shibi Muhammed"
+      }
+    ]
+  }
+}
