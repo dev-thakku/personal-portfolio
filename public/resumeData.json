@@ -88,8 +88,14 @@
     "projects": [
       {
         "title": "ReactJS Amazon Clone",
-        "category": "Amazon Clone built with ReactJS and Firebase",
+        "category": "Amazon Clone built with ReactJS and Firebase (Payment functionality).",
         "image": "amazon-clone.png",
+        "url": "https://bit.ly/336P8XR"
+      },
+      {
+        "title": "ReactJS Netflix Clone",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix.png",
         "url": "https://bit.ly/336P8XR"
       }
     ]
