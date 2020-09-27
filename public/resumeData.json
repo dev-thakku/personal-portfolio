@@ -89,7 +89,7 @@
       {
         "title": "ReactJS Amazon Clone",
         "category": "Amazon Clone built with ReactJS and Firebase (Payment functionality).",
-        "image": "amazon-clone.png",
+        "image": "amazon.png",
         "url": "https://bit.ly/336P8XR"
       },
       {
@@ -97,6 +97,12 @@
         "category": "Netflix Clone built with ReactJS",
         "image": "netflix.png",
         "url": "https://bit.ly/336P8XR"
+      },
+      {
+        "title": "ReactJS Google Clone",
+        "category": "Google Clone built with ReactJS",
+        "image": "google.png",
+        "url": "https://bit.ly/2S3O8yE"
       }
     ]
   },

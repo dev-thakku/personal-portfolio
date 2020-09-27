@@ -10,11 +10,7 @@ import Contact from "./Components/Contact";
 import Testimonials from "./Components/Testimonials";
 import Portfolio from "./Components/Portfolio";
 
-// eslint-disable-next-line
-function initializeReactGA() {
-  ReactGA.initialize("UA-176749675-2");
-  ReactGA.pageview("/homepage");
-}
+ReactGA.initialize("UA-176749675-2");
 
 class App extends Component {
   constructor(props) {
@@ -40,9 +36,12 @@ class App extends Component {
     });
   }
 
-  componentDidMount() {
+  componentDidMount = () => {
     this.getResumeData();
-  }
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  };
+  componentDidUpdate = () =>
+    ReactGA.pageview(window.location.pathname + window.location.search);
 
   render() {
     return (
